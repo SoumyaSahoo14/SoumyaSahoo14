@@ -1,13 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+Soumya+Sahoo's+GitHub+Profile!;Full+Stack+Developer+%7C+ML+Enthusiast+%7C+AI+Explorer" alt="Welcome Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=750&height=200&lines=Welcome+to+Soumya+Sahoo's+GitHub+Profile!;Full+Stack+Developer+%7C+ML+Enthusiast+%7C+AI+Explorer" alt="Welcome Banner" />
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;Machine+Learning+Enthusiast;AI+Evangelist;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
-
----
 
 ## 🧑‍💻 About Me
 
