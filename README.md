@@ -19,8 +19,13 @@ Hi, I'm Soumya Sahoo from Bhubaneswar, Odisha, India. 🌱I'm an aspiring Full S
 
 ### 🚀 Frameworks & Libraries  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,keras,pandas,matplotlib" alt="Frameworks" /><br><br>
+<img src="https://skillicons.dev/icons?i=react,nodejs" alt="Frameworks" /><br><br>
 </p>
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ---
 
 ### 🧰 Tools & IDEs  
