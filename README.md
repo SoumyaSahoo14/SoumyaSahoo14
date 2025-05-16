@@ -29,9 +29,13 @@ Hi, I'm Soumya Sahoo from Bhubaneswar, Odisha, India. 🌱I'm an aspiring Full S
 
 ### 🧰 Tools & IDEs  
  <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,intellij,postman,jupyter" alt="Tools" /><br><br>
- </p>
----
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,postman" alt="Tools" /><br><br>
+  
+  <!-- Custom Badges for Missing Tools -->
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</p>
+
 
 ### 🗄️ Databases  
 <!-- Databases -->
