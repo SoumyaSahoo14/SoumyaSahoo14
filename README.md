@@ -54,12 +54,17 @@ Hi, I'm Soumya Sahoo from Bhubaneswar, Odisha, India. 🌱I'm an aspiring Full S
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SoumyaSahoo14&theme=default" alt="GitHub Streak" />
 </p>
 
-
-
 ## 📬 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyajeet4321@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soumya-sahoo-b58459276)
+<p align="center">
+  <a href="mailto:soumyajeet4321@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <a href="https://linkedin.com/in/soumya-sahoo-b58459276" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
