@@ -4,11 +4,8 @@
 
 
 ## 🧑‍💻 About Me
-
-🌱 I'm an **Aspiring Full Stack Developer**, passionate about building intelligent and scalable software solutions.  
-🤖 I enjoy solving problems using **Machine Learning** and **AI**, and continuously exploring new technologies.  
-📱 I also like crafting Android apps using **Kotlin** and **Jetpack libraries**.  
-🧠 Strong believer in lifelong learning and tech for good.
+Hi, I'm Soumya Sahoo from Bhubaneswar, Odisha, India. 🌱I'm an aspiring Full Stack Developer, Machine Learning enthusiast, and 🤖AI evangelist. 
+🧠I have a strong foundation in Java, Spring Boot, and deep learning, and I'm passionate about building scalable web applications📱 and exploring the realms of artificial intelligence.
 
 ---
 
@@ -53,11 +50,7 @@
 
 ---
 
-## 📌 Certifications & Achievements
 
-<!-- Add your certifications and badges here -->
-
----
 
 ## 📬 Let's Connect
 
