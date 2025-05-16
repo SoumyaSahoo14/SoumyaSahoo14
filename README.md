@@ -17,16 +17,19 @@ Hi, I'm Soumya Sahoo from Bhubaneswar, Odisha, India. 🌱I'm an aspiring Full S
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,php,kotlin" alt="Languages" /><br><br>
 </p>
 
-### 🚀 Frameworks & Libraries  
+## 🚀 Frameworks & Libraries
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs" alt="Frameworks" /><br><br>
+  <!-- Supported via Skillicons -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="React and Node.js" /><br><br>
+
+  <!-- Custom Shields for ML Libraries -->
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
 </p>
 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
----
 
 ### 🧰 Tools & IDEs  
  <p align="center">
