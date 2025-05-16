@@ -16,8 +16,6 @@ Hi, I'm Soumya Sahoo from Bhubaneswar, Odisha, India. 🌱I'm an aspiring Full S
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,php,kotlin" alt="Languages" /><br><br>
 </p>
----
-
 ### 🚀 Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
