@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 Hi, I'm Soumya Sahoo from Bhubaneswar, Odisha, India. 🌱I'm an aspiring Full Stack Developer, Machine Learning enthusiast, and 🤖AI evangelist. 
-🧠I have a strong foundation in Java, Spring Boot, and deep learning, and I'm passionate about building scalable web applications📱 and exploring the realms of artificial intelligence.
+🧠I have a strong foundation in Java, Spring Boot, Python environment and deep learning, and I'm passionate about building scalable web applications📱 and exploring the realms of artificial intelligence.
 
 ---
 
