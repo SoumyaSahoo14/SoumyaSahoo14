@@ -50,7 +50,7 @@ Hi, I'm Soumya Sahoo from Bhubaneswar, Odisha, India. 🌱I'm an aspiring Full S
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SoumyaSahoo14&show_icons=true&theme=default" alt="Soumya's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyasahoo&layout=compact&theme=default" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyasahoo&layout=compact&theme=default"  height="150" />
 </p>
 
 <!-- GitHub Streak Stats -->
